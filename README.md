@@ -46,7 +46,7 @@ python vectorflow.py document.docx document.pdf
 
 ## 🎨 Demo
 
-![alt text](image.png)
+<img width="805" height="295" alt="image" src="https://github.com/user-attachments/assets/242379d0-78f7-462b-be9e-4035941e47b4" />
 
 ## 🔧 Requirements
 
@@ -73,5 +73,6 @@ MIT License - see [LICENSE](LICENSE) file.
 <div align="center">
 
 [⭐ Star](https://github.com/NVX-11/vectorflow) • [🐛 Report Bug](https://github.com/NVX-11/vectorflow/issues) • [💡 Request Feature](https://github.com/NVX-11/vectorflow/issues)
+
 
 </div>
