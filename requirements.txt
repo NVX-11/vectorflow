@@ -1,0 +1,2 @@
+pdf2docx>=0.5.8
+docx2pdf>=0.1.8
